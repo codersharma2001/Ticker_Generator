@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2",
+    "@truffle/hdwallet-provider": "^2.1.8",
+    "ipfs-http-client": "^60.0.0",
+    "truffle": "^5.8.0"
+  }
+}

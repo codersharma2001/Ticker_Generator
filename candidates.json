@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Candidate 1",
+      "rank": "Gold",
+      "recognition": "Best in Class",
+      "issuedBy": "Mayank",
+      "issuedByOrganization": "Web3Nest"
+    },
+    {
+      "name": "Candidate 2",
+      "rank": "Gold",
+      "recognition": "Outstanding Achievement",
+      "issuedBy": "Mayank",
+      "issuedByOrganization": "Web3Nest"
+    }
+
+  ]
+  
